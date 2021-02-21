@@ -4,12 +4,8 @@ def my_each(array)
     yield(array[a])
     a += 1
 end
-  else
-   "This block should not run!"
+  array
   end
 end
 
-my_each([]) do |word|
-  if word >= 1
-end
-end
+
