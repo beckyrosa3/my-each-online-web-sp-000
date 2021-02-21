@@ -11,6 +11,6 @@ end
 end
 
 my_each([]) do |word|
-  if word >= my_each
+  if word => my_each
 end
 end
