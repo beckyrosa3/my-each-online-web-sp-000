@@ -6,6 +6,10 @@ def my_each(array)
     a = a + 1
 end
   else
-  puts "This block should not run!"
+   "This block should not run!"
   end
 end
+
+my_each([]) do |word|
+  if word >= my_each
+end    
