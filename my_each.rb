@@ -1,5 +1,5 @@
 def my_each(array)
-  a = []
+  a = 0
   while a < array.length
     a << yield(array[a])
     a += 1
