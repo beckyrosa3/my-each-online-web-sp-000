@@ -7,6 +7,8 @@ end
   array
 end
 
-my_each(array) do |i|
+array = []
+
+array.my_each do |i|
  i
 end
