@@ -7,6 +7,6 @@ end
   array
 end
 
-#my_each("1, 2, 3, 4") do |i|
-#  "#{i} is my favorite number!"
-#end
+my_each do |i|
+  puts i
+end
