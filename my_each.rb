@@ -6,7 +6,7 @@ def my_each(array)
 end
   array
 end
-a = []
-my_each(a) do |word| "#{word}"
+
+my_each([]) do |word| "#{word}"
 
 end
