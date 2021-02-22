@@ -8,5 +8,3 @@ end
 end
 
 my_each([]) do |word| "#{word}"
-
-
