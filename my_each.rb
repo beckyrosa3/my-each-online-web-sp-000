@@ -8,5 +8,5 @@ end
 end
 
 my_each(array) do |i|
- 
+
 end
