@@ -7,6 +7,6 @@ end
   array
 end
 
-my_each([array]) do |i|
+my_each(array[a]) = array.map do |i|
   puts i
 end
