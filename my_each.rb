@@ -12,4 +12,3 @@ test_array = []
 test_array.my_each do |i|
  i
 end
-end
