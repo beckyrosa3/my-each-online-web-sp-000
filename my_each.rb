@@ -7,4 +7,6 @@ end
   array
 end
 
-my_each(array) {|element| element}
+my_each([]) do |i| 
+ i
+end
