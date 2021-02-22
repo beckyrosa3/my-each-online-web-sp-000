@@ -7,6 +7,6 @@ end
   array
 end
 
-#my_each(array).map do |i|
-# 
-#end
+my_each[()] { |word| }
+
+end
