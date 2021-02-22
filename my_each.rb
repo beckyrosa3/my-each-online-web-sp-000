@@ -8,6 +8,6 @@ end
 end
 
 
-my_each([array]) do |i|
+my_each([""]) do |i|
 puts i
 end
