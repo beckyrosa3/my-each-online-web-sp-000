@@ -7,6 +7,7 @@ end
   array
 end
 
+array = []
 my_each(array) do |i|
 
 end
