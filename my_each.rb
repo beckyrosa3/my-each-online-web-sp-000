@@ -7,7 +7,7 @@ end
   array
 end
 
-
-my_each([" "]) do |i|
+array = []
+array.my_each do |i|
 puts i
 end
