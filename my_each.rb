@@ -7,6 +7,6 @@ end
   array
 end
 
-my_each[()] { |word| }
+my_each[()] do |word| "#{word}"
 
 end
