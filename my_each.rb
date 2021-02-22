@@ -5,4 +5,6 @@ def my_each(array)
     a += 1
 end
   array
-  end
+end
+
+my_each(array) {|element| element}
