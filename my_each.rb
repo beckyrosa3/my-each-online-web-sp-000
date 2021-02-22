@@ -7,5 +7,4 @@ end
   array
 end
 
-my_each([1, 2, 3, 4])
-{ |word| "#{word}" }
+my_each(["hi", "hello", "bye", "goodbye"]) { |word| "#{word}" }
