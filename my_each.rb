@@ -7,9 +7,9 @@ end
   array
 end
 
-array = []
+test_array = []
 
-array.my_each do |i|
+test_array.my_each do |i|
  i
 end
 end
